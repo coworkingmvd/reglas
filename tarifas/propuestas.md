@@ -6,11 +6,11 @@
 
 * Precio: $2500/mes
 * Features:
-** Llave
-** Acceso 24x7
-** Lugar fijo (a coordinar con los demás de la misma oficina).
-** Uso de lugares comunes (garage, sala de reuniones, cocina, living)
-** Reserva de salas para actividades - sala de reuniones, garage, patio
+  - Llave
+  - Acceso 24x7
+  - Lugar fijo (a coordinar con los demás de la misma oficina).
+  - Uso de lugares comunes (garage, sala de reuniones, cocina, living)
+  - Reserva de salas para actividades - sala de reuniones, garage, patio
 
 #### Notas
 
@@ -23,9 +23,9 @@ mismo lugar esté disponible.
 
 * Precio: $2000/mes
 * Features:
-** Llave
-** Acceso 24x7
-** Uso de lugares comunes (garage, sala de reuniones, cocina, living)
+  - Llave
+  - Acceso 24x7
+  - Uso de lugares comunes (garage, sala de reuniones, cocina, living)
 
 #### Notas
 
@@ -39,7 +39,7 @@ trabajará desde el living en caso de no tener lugar en escritorio.
 
 * Precio: $1500/mes
 * Features:
-** Uso de lugares comunes (garage, sala de reuniones, cocina, living)
+  - Uso de lugares comunes (garage, sala de reuniones, cocina, living)
 
 #### Notas
 
@@ -52,7 +52,7 @@ para otras actividades.
 
 * Precios: calculado de esta forma: primeros 3 días, gratis. A partir de ahí $160/dia.
 * Features
-** Uso de lugares comunes (garage, sala de reuniones, cocina, living)
+  - Uso de lugares comunes (garage, sala de reuniones, cocina, living)
 
 #### Notas
 
@@ -74,11 +74,11 @@ A o B.
 
 * Precio: $2500/mes
 * Features:
-** Llave
-** Acceso 24x7
-** Lugar fijo (a coordinar con los demás de la misma oficina).
-** Uso de lugares comunes (garage, sala de reuniones, cocina, living)
-** Reserva de salas para actividades - sala de reuniones, garage, patio
+  - Llave
+  - Acceso 24x7
+  - Lugar fijo (a coordinar con los demás de la misma oficina).
+  - Uso de lugares comunes (garage, sala de reuniones, cocina, living)
+  - Reserva de salas para actividades - sala de reuniones, garage, patio
 
 #### Notas
 
@@ -91,14 +91,14 @@ mismo lugar esté disponible.
 
 * Precio: $160/día
 * Features:
-** Lugar en escritorio (no fijo), con backup a living/garage o sala de reuniones
-** Uso de lugares comunes (garage, sala de reuniones, cocina, living)
+  - Lugar en escritorio (no fijo), con backup a living/garage o sala de reuniones
+  - Uso de lugares comunes (garage, sala de reuniones, cocina, living)
 
 ### Membresía C
 
 * Precio: $1.500
 * Features:
-** Reserva de lugar fijo sin uso del mismo
+  - Reserva de lugar fijo sin uso del mismo
 
 #### Notas
 
